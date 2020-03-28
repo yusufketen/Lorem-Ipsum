@@ -41,7 +41,7 @@ class _MyAppHomeState extends State<MyAppHome> {
 
   void playAgain() {
     setState(() {
-      this.step = 0;
+      this.step = 1;
       this.score = 0;
       updateLastTypedAt();
     });
