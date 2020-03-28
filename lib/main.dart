@@ -152,7 +152,7 @@ class _MyAppHomeState extends State<MyAppHome> {
       ];
     return Scaffold(
       appBar: AppBar(
-        title: Text('Yusuf'),
+        title: Text('Lorem Ipsum Game'),
       ),
       body: Center(
         child: Column(
