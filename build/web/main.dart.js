@@ -42011,7 +42011,7 @@ if(m===1){m=L.eN(""+s,n,n,n,n,n)
 s=A.qd(n,n,n,n,n,n,n,n,n,n,n,24,n,n,n,n,!0,2,n,n,n,n,n)
 q=P.cw(0,0,20)
 p=P.cw(0,500,0)
-r=H.c([m,M.ir(n,new E.or(o.f,s,C.q,C.d5,20,125,0,q,E.Xs(C.d6),p,E.Xs(C.oF),n),n,n,n,40,new V.al(0,0,0,0),n,n),new T.fp(C.uV,Z.X6(!0,L.Tp(n,new F.dF(4,C.cZ,C.kt),n,n,n,n,n,!0,n,n,n,n,n,n,n,C.hx,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,"Yaz bakalim:",n,n,n,n,n,n,n,n,n,n,n),o.gQP()),n)],t)}else r=H.c([L.eN("Coronadan kacamadin, skorun: "+s,n,n,n,n,n),D.WO(L.eN("Tekrar Dene!",n,n,n,n,n),o.gR0())],t)}m=L.eN("Yusuf",n,n,n,n,n)
+r=H.c([m,M.ir(n,new E.or(o.f,s,C.q,C.d5,20,125,0,q,E.Xs(C.d6),p,E.Xs(C.oF),n),n,n,n,40,new V.al(0,0,0,0),n,n),new T.fp(C.uV,Z.X6(!0,L.Tp(n,new F.dF(4,C.cZ,C.kt),n,n,n,n,n,!0,n,n,n,n,n,n,n,C.hx,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,"Yaz bakalim:",n,n,n,n,n,n,n,n,n,n,n),o.gQP()),n)],t)}else r=H.c([L.eN("Coronadan kacamadin, skorun: "+s,n,n,n,n,n),D.WO(L.eN("Tekrar Dene!",n,n,n,n,n),o.gR0())],t)}m=L.eN("Lorem Ipsum Game",n,n,n,n,n)
 return new M.px(new E.mO(m,new P.an(1/0,56),n),new T.iq(C.aq,n,n,T.a00(r,C.pB),n),n)}}
 F.PU.prototype={
 $0:function(){var t=this.a
